@@ -1,2 +1,2 @@
 # PsychoPredict
-Depression Level Detection for Undergraduate Students, Using Academic and Psychological Factors
+A Machine Learning project for Depression Level Detection Using Academic and Psychological Factors for Undergraduate Students.
